@@ -55,6 +55,12 @@
   </url>
   
   <url>
+    <loc>http://shsase.github.io/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://shsase.github.io/categories/hugo/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -86,12 +92,6 @@
   
   <url>
     <loc>http://shsase.github.io/tags/mathjax/</loc>
-    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://shsase.github.io/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

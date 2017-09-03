@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300|Playfair+Display:700');
+
 body {
-  font-family: Optima, 'Lucida Sans', Calibri, Candara, Arial, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', 'Songti SC', 'Microsoft YaHei', sans-serif;
+	font-family: 'Merriweather', serif;
 }
+.text{
+	font-family: 'Playfair Display', serif;
+}
+
 blockquote {
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'STKaiti', 'KaiTi', '楷体', 'SimKai', 'DFKai-SB', 'NSimSun', serif;
+  font-family: 'Merriweather', serif;
 }
 code {
   font-family: "Lucida Console", 'Andale Mono', 'STKaiti', 'KaiTi', 'SimKai', monospace;
