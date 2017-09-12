@@ -3,131 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://shsase.github.io/posts/2017-02-14-hello-markdown/</loc>
+    <loc>/posts/2017-02-14-hello-markdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum6/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum6/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum5/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum5/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum4/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum4/</loc>
     <lastmod>2015-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum3/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum3/</loc>
     <lastmod>2015-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum2/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum2/</loc>
     <lastmod>2015-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/2015-07-23-lorem-ipsum/</loc>
+    <loc>/posts/2015-07-23-lorem-ipsum/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/blogdown/</loc>
+    <loc>/tags/blogdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/example/</loc>
+    <loc>/categories/example/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/hugo/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/leekaso/</loc>
+    <loc>/categories/leekaso/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/lorem-ipsum/</loc>
+    <loc>/tags/lorem-ipsum/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/machine-learning/</loc>
+    <loc>/categories/machine-learning/</loc>
     <lastmod>2015-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/mathjax/</loc>
+    <loc>/tags/mathjax/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/pandoc/</loc>
+    <loc>/tags/pandoc/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/rstudio/</loc>
+    <loc>/tags/rstudio/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/statistics/</loc>
+    <loc>/categories/statistics/</loc>
     <lastmod>2015-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shsase.github.io/categories/tech/</loc>
+    <loc>/categories/tech/</loc>
     <lastmod>2015-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

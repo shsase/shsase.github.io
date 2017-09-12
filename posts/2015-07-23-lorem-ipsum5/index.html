@@ -7,6 +7,7 @@
     <title>Correlation implies whatever Jeff Leek tells it to imply | Grey Matter Magazine</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
+    <script type="text/javascript" src="/scripts/user.js" ></script>
     <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
 
   </head>
@@ -14,14 +15,14 @@
   <body class="page">
     <nav class="header">
       <div class="banner">
-<a href="/" class="text">
+<a href="/" id="siteTitle" class="text">
 GREY MATTER MAGAZINE
 </a>
 </div>
 
       <div class="head-meta">
       
-        <span><a href="/">Back to Home</a></span>
+        <span><a href="/">&larr; Back to Home</a></span>
         <span class="date">2015-07-27</span>
         
         
@@ -29,7 +30,7 @@ GREY MATTER MAGAZINE
           
         
         
-        <span><a href="https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/posts/2015-07-23-lorem-ipsum5.md">Edit this page</a></span>
+        <span><a href="https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/posts/2015-07-23-lorem-ipsum5.md">Edit this page &rarr;</a></span>
         
         
       
@@ -97,6 +98,26 @@ GREY MATTER MAGAZINE
 </nav>
 
 
+<div id="disqus_thread"></div>
+<script>
+    
+
+   
+    var disqus_config = function () {
+        this.page.url = window.location.href;  
+        this.page.identifier = window.location.href + '123'; 
+    };
+   
+    (function() {  
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://shsase-github-io.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 </article>
 </div>
@@ -108,9 +129,19 @@ GREY MATTER MAGAZINE
 <div class="footer">
   <ul class="menu">
     
+    <li><a href="/"><span data-hover="Home">Home</span></a></li>
+    
+    <li><a href="/about/"><span data-hover="About">About</span></a></li>
+    
+    <li><a href="/categories/"><span data-hover="Categories">Categories</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="Tags">Tags</span></a></li>
+    
+    <li><a href="/index.xml"><span data-hover="Subscribe">Subscribe</span></a></li>
+    
   </ul>
   
-  <div class="copyright">&copy; <a href="https://yihui.name">Yihui Xie</a> 2017</div>
+  <div class="copyright">&copy; <a href="https://yihui.name">Yihui Xie</a> 2017 | <a href="https://github.com/yihui">Github</a> | <a href="https://twitter.com/xieyihui">Twitter</a></div>
   
 </div>
 </footer>

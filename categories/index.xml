@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grey Matter Magazine</title>
-    <link>http://shsase.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Grey Matter Magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://shsase.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example</title>
-      <link>http://shsase.github.io/categories/example/</link>
+      <link>/categories/example/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/example/</guid>
+      <guid>/categories/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://shsase.github.io/categories/hugo/</link>
+      <link>/categories/hugo/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/hugo/</guid>
+      <guid>/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leekaso</title>
-      <link>http://shsase.github.io/categories/leekaso/</link>
+      <link>/categories/leekaso/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/leekaso/</guid>
+      <guid>/categories/leekaso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://shsase.github.io/categories/machine-learning/</link>
+      <link>/categories/machine-learning/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/machine-learning/</guid>
+      <guid>/categories/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>http://shsase.github.io/categories/statistics/</link>
+      <link>/categories/statistics/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/statistics/</guid>
+      <guid>/categories/statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>http://shsase.github.io/categories/tech/</link>
+      <link>/categories/tech/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://shsase.github.io/categories/tech/</guid>
+      <guid>/categories/tech/</guid>
       <description></description>
     </item>
     
